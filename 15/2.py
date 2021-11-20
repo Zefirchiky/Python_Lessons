@@ -1,0 +1,5 @@
+korteg=("Zheka","Vova","Python",132,222)
+a = korteg.index("Python")
+print(a)
+last = korteg.index(222)
+print(last)
